@@ -1,0 +1,8 @@
+.card {
+  @extend .mb-3;
+}
+
+.card-header {
+  font-size: 1.1rem;
+  font-weight: bold;
+}

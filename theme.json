@@ -1,0 +1,8 @@
+{
+  "name": "Pirulug",
+  "version": "0.0.0",
+  "description": "A modern dark theme for phpMyAdmin",
+  "author": "Pirulug",
+  "url": "https://github.com/pirulug",
+  "supports": ["5.1", "5.2"]
+}
