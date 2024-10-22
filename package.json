@@ -16,7 +16,7 @@
     "watch:direct-jq": "sass --watch --style=compressed scss\\jquery-ui.scss:F:\\xampp\\phpMyAdmin\\themes\\blueberry\\jquery\\jquery-ui.css"
   },
   "dependencies": {
-    "bootstrap": "^5.3.0-alpha3",
-    "sass": "^1.62.1"
+    "bootstrap": "^5.3.3",
+    "sass": "^1.80.2"
   }
 }

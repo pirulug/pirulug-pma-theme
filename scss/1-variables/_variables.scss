@@ -438,6 +438,15 @@ $spacers: (
 ) !default;
 // scss-docs-end spacer-variables-maps
 
+$zindex-levels: (
+  n1: -1,
+  0: 0,
+  1: 1,
+  2: 2,
+  3: 3,
+  99: 99,
+);
+
 // Position
 //
 // Define the edge positioning anchors of the position utilities.
